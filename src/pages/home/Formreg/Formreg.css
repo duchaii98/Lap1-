@@ -1,0 +1,35 @@
+/* css component formreg */
+.box5 {
+  background-color: #003580;
+  margin-top: 30px;
+}
+.container5 {
+  text-align: center;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.textForm {
+  color: white;
+  margin-bottom: 10px;
+}
+.textForm2 {
+  color: white;
+  margin-bottom: 10px;
+}
+.formreg {
+  height: 35px;
+  width: 270px;
+  margin-right: 5px;
+  border-radius: 7px 7px;
+}
+.btnForm {
+  background-color: #0071c2;
+  color: white;
+  height: 38px;
+  width: 100px;
+  border-radius: 7px 7px;
+}

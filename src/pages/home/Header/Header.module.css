@@ -1,0 +1,14 @@
+/* css phần header */
+.Header {
+  color: white;
+  margin-top: 20px;
+}
+.text1 {
+  margin-bottom: 15px;
+}
+.button {
+  margin-bottom: 15px;
+  background-color: #0071c2;
+  color: white;
+  height: 40px;
+}

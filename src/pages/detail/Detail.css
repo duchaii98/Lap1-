@@ -1,0 +1,76 @@
+/* css component detail */
+.box11 {
+  width: 963px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.detailBox {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+.textDetail {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  color: #48a3de;
+}
+.priceDetail {
+  margin-bottom: 8px;
+  color: #008009;
+}
+.btnDetail {
+  background-color: #0071c2;
+  color: white;
+  border-radius: 5px 5px;
+}
+.container7 {
+  display: grid;
+  row-gap: 5px;
+  column-gap: 5px;
+  grid-template-rows: 221px 221px;
+  grid-template-columns: 316px 316px 316px;
+  margin-bottom: 20px;
+}
+.detailBox2 {
+  display: grid;
+  column-gap: 13px;
+  grid-template-columns: 625px 318px;
+}
+.textDetail2 {
+  margin-top: 15px;
+}
+.box12 {
+  background-color: #ebf3ff;
+}
+.textDetail3 {
+  font-size: 22px;
+  color: gray;
+  margin-bottom: 22px;
+}
+.detailBox3 {
+  margin: 12px 12px;
+}
+.textDetail4 {
+  font-size: 20px;
+  margin-top: 10px;
+}
+.btnDetail2 {
+  background-color: #0071c2;
+  color: white;
+  border-radius: 5px 5px;
+  width: 100%;
+  height: 40px;
+  margin-top: 10px;
+}
+.containerDetail {
+  background-color: #003580;
+  height: 140px;
+  margin-bottom: 50px;
+}
+.containerDetail2 {
+  width: 799px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 12px;
+}

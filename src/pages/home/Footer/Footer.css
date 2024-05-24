@@ -1,0 +1,16 @@
+/* css component footer */
+.container6 {
+  display: grid;
+  grid-template-columns: auto auto auto auto 139px;
+  column-gap: 10px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+.child {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.box6 {
+  margin-top: 15px;
+}

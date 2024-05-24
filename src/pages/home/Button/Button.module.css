@@ -1,0 +1,12 @@
+/* css các nút */
+.contanier {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  gap: 20px;
+  top: 17px;
+  left: 1001px;
+}
+.nut {
+  color: #80bbef;
+}
